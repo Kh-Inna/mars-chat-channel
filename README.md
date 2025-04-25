@@ -1,1 +1,1 @@
-# mars-chat-channel
+# NetworkingChannelLayer
